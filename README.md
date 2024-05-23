@@ -1,4 +1,4 @@
-# 50 Projects in 50 Days — HTML/CSS and JavaScript （Day 2）
+# 50 Projects in 50 Days — HTML/CSS and JavaScript （Day 3）
 ## Day 3 — Rotating Navigation Animation :
 
 the third project of 50 projects in 50 days challenge
